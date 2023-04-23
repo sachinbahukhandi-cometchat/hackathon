@@ -1,0 +1,17 @@
+{
+    "name": "admin1/hack-webhook",
+    "autoload": {
+        "psr-4": {
+            "Admin1\\HackWebhook\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sachin Bahukhandi",
+            "email": "sachin.bahukhandi@cometchat.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
